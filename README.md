@@ -3,9 +3,9 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: rmariacarmen](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/rmariacarmen)
-[![Linkedin: maria-del-carmen-rodriguez](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/maria-del-carmen-rodriguez/)
-[![GitHub Phili23](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Phili23)
+[![Twitter: rmariacarmen](https://img.shields.io/twitter/follow/rmariacarmen?style=social)](https://twitter.com/rmariacarmen)
+[![Linkedin: maria-del-carmen-rodriguez](https://img.shields.io/badge/-maria-del-carmen-rodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-del-carmen-rodriguez/)](https://www.linkedin.com/in/maria-del-carmen-rodriguez/)
+[![GitHub Phili23](https://img.shields.io/github/followers/Phili23?label=follow&style=social)](https://github.com/Phili23)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
