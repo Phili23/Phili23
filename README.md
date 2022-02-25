@@ -2,6 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Systems Engineer at <a href="http://www.unb.br">University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">Web development</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<p><em>Industrial Engineeringr at <a href="http://www.unb.br">University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
 [![Twitter: rmariacarmen](https://img.shields.io/twitter/follow/rmariacarmen?style=social)](https://twitter.com/rmariacarmen)
 [![Linkedin: /maria-del-carmen-rodriguez](https://img.shields.io/badge/-rmariacarmen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-del-carmen-rodriguez/)](https://www.linkedin.com/in//maria-del-carmen-rodriguez/)
