@@ -15,7 +15,7 @@
 ```javascript
 const rma = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, Express],
   Database: ["PostgreSql"],
  
